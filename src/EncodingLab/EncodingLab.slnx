@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EncodingLab.OrderService/EncodingLab.OrderService.csproj" />
+  <Project Path="EncodingLab.Tools/EncodingLab.Tools.csproj" />
+  <Project Path="EncodingLab.Warehouse/EncodingLab.Warehouse.csproj" />
+</Solution>
